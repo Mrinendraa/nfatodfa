@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+.transition {
+    margin-bottom: 5px;
+}
+
+#transition_table {
+    white-space: pre;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.spacer {
+    height: 100px;
+  }
